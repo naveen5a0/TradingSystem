@@ -1,0 +1,3 @@
+symbol	exchange	edge	standarddev
+IBM	NYSE	0.06795	0.234665772962
+MSFT	NYSE	0.2151	1.11626390249
